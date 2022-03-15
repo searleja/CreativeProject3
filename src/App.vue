@@ -25,7 +25,7 @@
       <div class="footer">
       <hr>
       <hr>
-        <a href="https://github.com/BYUCS260/grocery-store-searleja">Link to this github repository</a>
+        <a href="https://github.com/searleja/CreativeProject3">Link to this github repository</a>
       </div>
     </div>
 </div>
